@@ -10,7 +10,8 @@ I am a  software engineer currently working at **Insperity**. I specialize in bu
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
 
 #### ⚙️ **Backend**  
-![.NET](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![R Shiny](https://img.shields.io/badge/-R_Shiny-276DC3?logo=r&logoColor=white)  
+![.NET](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+
 
 
 #### 🤖 **AI/ML**  
